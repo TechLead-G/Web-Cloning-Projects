@@ -5,3 +5,6 @@ The List of Websites that has amazing design and Inshallah I will Create it for 
 
 Firebase >> https://firebase.google.com/
 Ionic    >> https://ionicframework.com/
+Caferati >> https://caferati.me/
+Kode     >> https://www.kodeclubs.com/
+Brunio   >> https://bruno-simon.com/
